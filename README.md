@@ -1,3 +1,5 @@
-# It's a person who wants to learn more about computer graphics and now works for it
-## University: Shenzhen University. Major: Computer Science and Technology
+# About me
+Currently, a Master's student at the University of Sheffield, I worked for Meitu for 2 years.
+- Programming Languages: C++, Java, Python, Lua, Bash, GLSL
+- Framework and Libraries: OpenGL, OpenMP, CUDA,
 
